@@ -1,4 +1,4 @@
-# Rice Quality
+# Ricelytics
 
 ## 👥 Kelompok 2
 
@@ -45,8 +45,8 @@ Dataset yang digunakan dalam pengembangan model ini merupakan data primer yang d
 2. **Clone Repositori**
 
 ```bash
-git clone https://github.com/Fikri-Rouzan/rice-quality
-cd rice-quality
+git clone https://github.com/Fikri-Rouzan/ricelytics.git
+cd ricelytics
 ```
 
 3. **Buat Virtual Environment**
