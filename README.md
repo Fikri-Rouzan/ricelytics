@@ -25,14 +25,14 @@ Dataset yang digunakan dalam pengembangan model ini merupakan data primer yang d
 
 ## 🛠️ Tech Stack
 
-| Kategori                    | Teknologi yang Digunakan                                                              |
-| :-------------------------- | :------------------------------------------------------------------------------------ |
-| 🌐 **Programming Language** | `Python`                                                                              |
-| 🌱 **Environment**          | `Jupyter Notebook`                                                                    |
-| 🧩 **Frameworks**           | `TensorFlow`, `Streamlit`                                                             |
-| ⚛️ **Libraries**            | `NumPy`, `Matplotlib`, `seaborn`, `scikit-learn`, `OpenCV Python`, `Plotly`, `Pillow` |
-| ⚡ **Tool**                 | `Google Colab`                                                                        |
-| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                           |
+| Kategori                    | Teknologi yang Digunakan                                                       |
+| :-------------------------- | :----------------------------------------------------------------------------- |
+| 🌐 **Programming Language** | `Python`                                                                       |
+| 🌱 **Environment**          | `Jupyter Notebook`                                                             |
+| 🧩 **Frameworks**           | `TensorFlow`, `Streamlit`                                                      |
+| ⚛️ **Libraries**            | `NumPy`, `matplotlib`, `seaborn`, `plotly`, `scikit-learn`, `OpenCV`, `Pillow` |
+| ⚡ **Tool**                 | `Google Colab`                                                                 |
+| 🚀 **Deployment**           | `Streamlit Community Cloud`                                                    |
 
 ---
 
